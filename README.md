@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rezone Prince</h1>
-<h3 align="center">A passionate web developer from Bangladesh.</h3>
+<h3 align="center">I'm passionate web desiner and developer from Bangladesh.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rezoneprince&label=Profile%20views&color=0e75b6&style=flat" alt="rezoneprince" /> </p>
 
