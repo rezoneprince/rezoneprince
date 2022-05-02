@@ -5,13 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rezoneprince" alt="rezoneprince" /></a> </p>
 
-<h1 align="center">Hi 👋, I'm Rezone Prince</h1>
-<h3 align="center">I'm passionate web desiner and developer from Bangladesh.</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rezoneprince&label=Profile%20views&color=0e75b6&style=flat" alt="rezoneprince" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rezoneprince" alt="rezoneprince" /></a> </p>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/rezoneprince" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="rezoneprince" height="30" width="40" /></a>
