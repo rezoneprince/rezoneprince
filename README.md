@@ -14,7 +14,7 @@
 
 # 📊 GitHub Stats:
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?&theme=blue_green)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rezoneprince&theme=blue_green)
 
 ---
 
