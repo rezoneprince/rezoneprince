@@ -14,9 +14,7 @@
 
 # 📊 GitHub Stats:
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rezoneprince&theme=default)
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rezoneprince&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rezoneprince&theme=default)![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rezoneprince&theme=default)
 
 ### 🔝 Top Contributed Repo
 
