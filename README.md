@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Md Rezone Ahamed</h1>
 
-<img align="right" alt="Coding" width="300" src="https://ibb.co/gt2j53k">
+<img align="center" alt="Coding" width="950" src="https://ibb.co/gt2j53k">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F71E&random=false&width=435&lines=I’m+currently+learning+Front+End+Development)](https://git.io/typing-svg)
 
